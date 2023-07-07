@@ -1,0 +1,188 @@
+
+.nav-pills .pill-1 .nav-link {
+    background-color: #d19900;
+}
+.carousel-item{
+    padding-left: 17%;
+    padding-right: 17%;
+    background-color: rgba(0,0,0,0.8);
+    
+}
+.carousel-button{
+    padding: 1% 5%;
+    background-color: #d19900;
+    border: 3px solid #d19900;
+    border-radius: 12px;
+   
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+.carousel-button a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+    
+}
+.about-section-image{
+    width: 45%;
+    position: relative;
+    right: 190px;
+}
+.about-button{
+    background-color: rgba(0,0,0,0.8);
+}
+.section-intro{
+    color: #d19900;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+.section-para,.section-para-2{
+    font-size: .9rem;
+}
+.section-para{
+    margin-top: 2.5rem;
+}
+.background-image{
+    height: 90%;
+    position: relative;
+    top: 50px;
+}
+.yellow-line{
+    width: 45px;
+    height: 3px;
+    background-color: #d19900;
+    display: inline-block;
+}
+.black-line{
+    width: 15px;
+    height: 3px;
+    margin-left: 4px;
+    background-color: rgba(0,0,0,0.8);
+    display:inline-block;
+    margin-top: -10px;
+    
+}
+.section-big-heading{
+    margin-bottom: -7px;
+    font-size: 1.5rem;
+    margin-top: 40px;
+}
+.service-heading{
+     
+    text-align: center; 
+}
+.icon{
+    color: #d3d3d3;
+    font-size: 5rem;
+    padding: 7% 5% 5% 3%;
+    
+}
+.icon-row{
+    text-align: center;
+    margin: 0% 7% 0 7%;
+}
+.icon-col{
+    text-align: center;
+}
+.service-head{
+    font-size: 1rem;
+}
+.section-link{
+    text-decoration: none;
+}
+.service-yellow{
+    background-color: #d19900;
+    width: 15px;
+    height: 4px;
+    margin-right: 2px;
+    display: inline-block;
+}
+.service-black{
+    width: 15px;
+    height: 4px;
+    margin-right: 2px;
+    background-color: rgba(0,0,0,0.8);
+    display: inline-block;
+    text-align: center;
+}
+.service-footer{
+    text-align: center;
+}
+.project-nav{
+    background-color: white;
+}
+.project-link{
+    color: rgba(0,0,0,0.8) ;
+}
+.navbar-nav > .active > a {
+    color: red;
+}
+.project-img{
+    width: 81%;
+    display: inline-block;
+    padding: 5%;
+    
+}
+.project-heading{
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 1.5rem;
+    line-height: 1.9rem;
+}
+.project-para{
+    margin-top: 15%;
+    padding: 3px 10% 3px 10%;
+}
+.project-button{
+    padding: 2px 15px 2px 15px;
+    font-size: .5rem;
+}
+.project-section{
+    margin: 5% 5px 100px 5px;
+    
+}
+.team-card{
+    padding: 3% 7% 3% 7%;
+    margin: auto;
+}
+.team-section{
+    margin: 5% 2% 5% 2%;
+}
+.quick, .quick-head{
+    padding-left: 30px;
+}
+.quick a{
+    color: white;
+    text-decoration: none;
+}
+.quick i{
+    color: #d19900;
+}
+.contact p{
+    display: inline-block;
+    padding: 5px;
+}
+.foot-icon{
+    color: #d19900;
+    padding: 10px;
+}
+.link{
+    color: white;
+    background-color: black;
+    font-size: .7rem;
+    padding: 5%;
+}
+.copyright{
+    background-color: #d19900;
+    text-align: center;
+    padding: 1%;
+    color: white;
+}
+
+
+
+
+

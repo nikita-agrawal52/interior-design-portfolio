@@ -1,0 +1,13 @@
+.nav-pills .pill-2 .nav-link {
+    background-color: #d19900;
+}
+.main-img img{
+    width: 100%;
+    display: inline-block;
+    z-index: 0;
+    
+}
+.main-img h1{
+    display: inline-block;
+    z-index: 1;
+}
